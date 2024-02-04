@@ -1,0 +1,23 @@
+#red{
+    color: blueviolet;
+}
+#green{
+    color: red;
+}
+
+*{
+    background-color: whitesmoke;
+}
+
+.leaf{
+    font-weight: narmal;
+}
+
+#hot{
+    color: red;
+}
+
+img{
+    height: 150px;
+    width: 250px;
+}
